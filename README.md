@@ -1,5 +1,5 @@
 
-# 🔎 Insightly — CSV Data Analyzer
+# 🔎  Insightly — CSV Data Analyzer
 
 > A simple, generic web app to upload any CSV file and instantly explore its structure, statistics, and trends — no coding required.
 
