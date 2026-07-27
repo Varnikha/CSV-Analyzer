@@ -1,0 +1,7 @@
+[theme]
+base = "light"
+primaryColor = "#2f6fed"              # bright blue accent
+backgroundColor = "#f4f6fb"            # very light blue-gray page background
+secondaryBackgroundColor = "#ffffff"   # white cards/panels/inputs
+textColor = "#0b1e3d"                  # deep navy text
+font = "sans serif"
